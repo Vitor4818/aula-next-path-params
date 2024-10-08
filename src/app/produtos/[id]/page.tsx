@@ -1,5 +1,6 @@
 import { Menu } from "@/components/Menu";
 
+
 export default function Detalhes({params: {id} }){
     return(
         <div>
